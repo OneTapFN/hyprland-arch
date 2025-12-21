@@ -9,4 +9,4 @@ family = "JetBrainsMono"
 # This padding is scaled by DPI and applied to all sides.
 padding.x = 10
 padding.y = 10
-opacity = 0.98
+opacity = 0.95
