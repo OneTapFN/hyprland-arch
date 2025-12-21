@@ -1,0 +1,5 @@
+[window]
+# Blank space added around the window in pixels.
+# This padding is scaled by DPI and applied to all sides.
+padding.x = 20
+padding.y = 20

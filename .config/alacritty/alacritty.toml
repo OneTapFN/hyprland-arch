@@ -1,0 +1,12 @@
+[font]
+size = 12.0
+
+[font.normal]
+family = "JetBrainsMono"
+
+[window]
+# Blank space added around the window in pixels.
+# This padding is scaled by DPI and applied to all sides.
+padding.x = 10
+padding.y = 10
+opacity = 0.98
